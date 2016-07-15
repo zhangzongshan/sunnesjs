@@ -55,6 +55,9 @@
     <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="4.2.1" last-modified="1444756414000" />
   </component>
